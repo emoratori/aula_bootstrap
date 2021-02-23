@@ -1,0 +1,24 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: blueviolet;
+}   
+.para_ir{
+    background-color: blue;
+    color: white;
+}
+.marge{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.para_ir2{
+    background-color: rgb(238, 191, 129);
+}
+.servicos{
+    background-color: brown;
+}
+.bg-footer{
+    background-color: black;
+    color: graySS;
+}
